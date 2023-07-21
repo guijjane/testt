@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Film 1",
+    "year": 2022,
+    "genre": "Action",
+    "director": "Director 1",
+    "actors": "Actor 1, Actor 2",
+    "synopsis": "Synopsis 1",
+    "location": "/path/to/video/file1.mp4",
+    "thumbnail": "/path/to/thumbnail1.jpg"
+  },
+  {
+    "title": "Film 6",
+    "year": 2050,
+    "genre": "SEDNESS",
+    "director": "DRISS",
+    "actors": "safi, safa",
+    "synopsis": "Synophyr 3",
+    "location": "/path/to/video/file1.mp4",
+    "thumbnail": "/path/to/thumbnail1.jpg"
+  },
+  {
+    "title": "Film 7",
+    "year": 1990,
+    "genre": "drama",
+    "director": "abdelilah",
+    "actors": [
+      "DRIss",
+      "SOUHail"
+    ],
+    "synopsis": "THIS",
+    "location": "emplacement",
+    "thumbnail": "miniature"
+  }
+]
